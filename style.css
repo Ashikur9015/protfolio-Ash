@@ -34,4 +34,17 @@ h1{
       color: white;
       font-weight: 800;
   }
+  .full{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+  }
+  .middel{
+      background-image: url("img/unnamed.jpg");
+       
+  }
+  section{
+      height: 600px;
+  }
  
