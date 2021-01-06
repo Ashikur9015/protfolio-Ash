@@ -13,7 +13,7 @@ h1{
     color: white;
 }
 .name{
-    color: yellow;
+    color: orange;
 }
   .one{
       border: 3px solid red;
@@ -46,5 +46,10 @@ h1{
   }
   section{
       height: 600px;
+  }
+  .single{
+      box-shadow: 10px 10px 40px grey;
+      border-radius: 5px;
+       
   }
  
